@@ -36,15 +36,28 @@ In this python project, I have made an attendance system which takes attendance 
    <img src="https://github.com/user-attachments/assets/0970d251-78f3-48a1-af72-f472d57b318d" alt="Screenshot 2025-01-15 144934" width="500"/>
 
 
-   
-
-
+  
 
 ## Installation 🔧
 
 - Clone the repository:
 
   git clone https://github.com/kouliki/Attendance-Management-system.git
+
+ ##*Python Modules need to be downloaded before starting the project* ⬇️
+
+( All the modules are installed using Command Prompt ) 
+
+pip install tk-tools
+pip install opencv-contrib-python
+pip install datetime
+pip install pytest-shutil
+pip install python-csv
+pip install numpy
+pip install pillow 
+pip install pandas
+pip install times
+
 
 
 
