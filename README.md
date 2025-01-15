@@ -25,7 +25,7 @@ In this python project, I have made an attendance system which takes attendance 
 
 **Page-1** :
 
-   <img src="https://github.com/user-attachments/assets/89ceb1cc-54ee-4e3e-904b-f6c8b6045693" alt="Screenshot 2025-01-15 155334" width="200"/>
+   <img src="https://github.com/user-attachments/assets/89ceb1cc-54ee-4e3e-904b-f6c8b6045693" alt="Screenshot 2025-01-15 155334" width="500"/>
 
 **Page-2** :
 
