@@ -29,7 +29,14 @@ In this python project, I have made an attendance system which takes attendance 
 
 **Page-2** :
 
-   <img src="https://github.com/user-attachments/assets/42716db6-e188-42bc-bcac-f0573ad7ec28" alt="Screenshot 2025-01-15 130734" width="200"/>
+   <img src="https://github.com/user-attachments/assets/42716db6-e188-42bc-bcac-f0573ad7ec28" alt="Screenshot 2025-01-15 130734" width="500"/>
+
+**Page-3** :
+
+   <img src="https://github.com/user-attachments/assets/0970d251-78f3-48a1-af72-f472d57b318d" alt="Screenshot 2025-01-15 144934" width="500"/>
+
+
+   
 
 
 
